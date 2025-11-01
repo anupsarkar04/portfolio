@@ -1,0 +1,65 @@
+[
+  {
+    "id":"1",
+    "Gigname":"Frontend Development",
+    "ShortDescription":"Custom responsive interfaces built with React.js, and modern CSS frameworks like Tailwind. Optimized for performance and accessibility",
+    "Price":"$1500",
+    "Time":"5-7"
+    
+
+  },
+  {
+    "id":"2",
+    "Gigname":"Backend Development",
+    "ShortDescription":"Custom responsive interfaces built with React.js, and modern CSS frameworks like Tailwind. Optimized for performance and accessibility",
+    "Price":"$2500",
+    "Time":"5-7"
+    
+
+  },
+  {
+    "id":"3",
+    "Gigname":"Frontend Development2",
+    "ShortDescription":"Custom responsive interfaces built with React.js, and modern CSS frameworks like Tailwind. Optimized for performance and accessibility",
+    "Price":"$1300",
+    "Time":"5-7"
+    
+
+  },
+  {
+    "id":"4",
+    "Gigname":"Frontend Development2",
+    "ShortDescription":"Custom responsive interfaces built with React.js, and modern CSS frameworks like Tailwind. Optimized for performance and accessibility",
+    "Price":"$1300",
+    "Time":"5-7"
+    
+
+  },
+  {
+    "id":"5",
+    "Gigname":"Frontend Development2",
+    "ShortDescription":"Custom responsive interfaces built with React.js, and modern CSS frameworks like Tailwind. Optimized for performance and accessibility",
+    "Price":"$1300",
+    "Time":"5-7"
+    
+
+  },
+  {
+    "id":"6",
+    "Gigname":"Frontend Development2",
+    "ShortDescription":"Custom responsive interfaces built with React.js, and modern CSS frameworks like Tailwind. Optimized for performance and accessibility",
+    "Price":"$1300",
+    "Time":"5-7"
+    
+
+  },
+  {
+    "id":"7",
+    "Gigname":"Frontend Development2",
+    "ShortDescription":"Custom responsive interfaces built with React.js, and modern CSS frameworks like Tailwind. Optimized for performance and accessibility",
+    "Price":"$1300",
+    "Time":"5-7"
+    
+
+  }
+]
