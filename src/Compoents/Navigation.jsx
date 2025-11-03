@@ -51,6 +51,7 @@ const Navigation = () => {
                        <Link to={'/home/mygig'}><li className='list-none hover:underline underline-offset-8 '>My GiG</li></Link>
                        <Link to={'/home/blogpost'}><li className='list-none hover:underline underline-offset-8 '>Blog</li></Link>
                         <li href='#contact' className='list-none hover:underline underline-offset-8 '>Contact</li>
+                       <Link to={'/home/SignUp'}><li className='list-none hover:underline underline-offset-8 '>Log In</li></Link>
                       </div>
                     </div>
                   </div>

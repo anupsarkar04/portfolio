@@ -9,6 +9,7 @@ import MyGig from './Compoents/MyGig/MyGig';
 import Resume from './Compoents/Resume';
 import BlogPost from './Compoents/BlogPost';
 import BlogDetailPage from './Compoents/BlogDetailPage';
+import SignUp from './Pages/SignUp';
 
 
 
@@ -20,6 +21,7 @@ function App() {
     <Routes>
       <Route path='/' element={<FirstPage/>}/>
       <Route path='/home' element={<Home/>}/>
+      <Route path='/home/SignUp' element={<SignUp/>}/>
       <Route path='home/aboutme' element={<AboutMe/>}/>
       <Route path='/home/allproject' element={<AllProject/>}/>
       <Route path='/home/mygig' element={<MyGig/>}/>
