@@ -44,12 +44,12 @@ const Home = () => {
           </div>
           <div className='flex justify-center gap-3'>
             <div>
-              <Link to={'/home/resume'}>
+              <Link to={'/resume'}>
                 <button className='h-10 w-40 border-1 border-blue-900 text-white bg-neutral-400 transform hover:scale-105 duration-300 hover:shadow-md hover:shadow-gray-500 font-bold hover:bg-neutral-500 p-2 rounded-xl flex justify-center items-center'>Resume</button>
               </Link>
             </div>
             <div>
-              <Link to={'/home/allproject'}>
+              <Link to={'/allproject'}>
                 <button className='h-10 w-40 hover:border-1  bg-pink-500 hover:bg-rose-500 bg-gradient-to-br  ransform hover:scale-105 font-bold  p-2 rounded-xl flex justify-center items-center transition-all duration-300'>View My Work</button>
               </Link>
             </div>

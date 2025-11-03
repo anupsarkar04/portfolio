@@ -20,9 +20,9 @@ const Navigation = () => {
                     <ul  className='list-none hover:underline underline-offset-8 '>About</ul>
                         <li className='list-none hover:underline underline-offset-8 transform ease-in-out duration-300'>Skills</li>
                         <li className='list-none hover:underline underline-offset-8 '>Services</li>
-                        <Link to={'/home/allproject'}><li className='list-none hover:underline underline-offset-8 '>Project</li> </Link>
+                        <Link to={'/allproject'}><li className='list-none hover:underline underline-offset-8 '>Project</li> </Link>
                         <li className='list-none hover:underline underline-offset-8 '>Marketplace</li>
-                       <Link to={'/home/blogpost'}><li className='list-none hover:underline underline-offset-8 '>Blog</li></Link>
+                       <Link to={'/blogpost'}><li className='list-none hover:underline underline-offset-8 '>Blog</li></Link>
                         <li className='list-none hover:underline underline-offset-8 '>Contact</li>
                     <button>Hire Me</button>
                   </nav>
@@ -46,12 +46,12 @@ const Navigation = () => {
                        {/* <a className='list-none hover:underline underline-offset-8 '>About</a> */}
                         <li href='#skils' className='list-none hover:underline underline-offset-8 transform ease-in-out duration-300'>Skills</li>
                         <li href='#services' className='list-none hover:underline underline-offset-8 '>Services</li>
-                       <Link to={'/home/allproject'}><li className='list-none hover:underline underline-offset-8 '>Project</li></Link>
+                       <Link to={'/allproject'}><li className='list-none hover:underline underline-offset-8 '>Project</li></Link>
                         <li href='#marketplace' className='list-none hover:underline underline-offset-8 '>Marketplace</li>
-                       <Link to={'/home/mygig'}><li className='list-none hover:underline underline-offset-8 '>My GiG</li></Link>
-                       <Link to={'/home/blogpost'}><li className='list-none hover:underline underline-offset-8 '>Blog</li></Link>
+                       <Link to={'/mygig'}><li className='list-none hover:underline underline-offset-8 '>My GiG</li></Link>
+                       <Link to={'/blogpost'}><li className='list-none hover:underline underline-offset-8 '>Blog</li></Link>
                         <li href='#contact' className='list-none hover:underline underline-offset-8 '>Contact</li>
-                       <Link to={'/home/SignUp'}><li className='list-none hover:underline underline-offset-8 '>Log In</li></Link>
+                       <Link to={'/SignUp'}><li className='list-none hover:underline underline-offset-8 '>Log In</li></Link>
                       </div>
                     </div>
                   </div>

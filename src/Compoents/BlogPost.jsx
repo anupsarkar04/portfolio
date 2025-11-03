@@ -48,7 +48,7 @@ const BlogPost = () => {
           </div>
           <h3 class="text-2xl font-bold text-white mb-2">{post.title}</h3>
           <p class="text-gray-400 text-base mb-4">{post.Description}</p>
-          <Link to={`/blog/${post.id}`}  class="text-blue-500 hover:text-blue-400 font-semibold flex items-center">
+          <Link to={`/${post.id}`}  class="text-blue-500 hover:text-blue-400 font-semibold flex items-center">
             Read more
             <svg class="w-4 h-4 ml-2" fill="none" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.5 8.5l-5 5-5-5"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 17.5l5-5 5 5"></path></svg>
           </Link>

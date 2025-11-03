@@ -42,7 +42,7 @@ const HomeProject = () => {
             </div>
            ))}
              <div className='md:flex lg:hidden justify-center hidden'>
-              <Link to={'/home/allproject'}>
+              <Link to={'/allproject'}>
             <div className='h-10 w-72 rounded-xl mt-8 font-bold text-white border-1 flex justify-center items-center bg-gray-500 hover:bg-gray-700 text-xl'>
               See All Project
             </div>
@@ -51,7 +51,7 @@ const HomeProject = () => {
             
           </div>
           <div className='flex lg:flex md:hidden justify-center'>
-            <Link to={'/home/allproject'}>
+            <Link to={'/allproject'}>
             <div className='h-10 w-72 rounded-xl mt-8 font-bold text-white border-1 flex justify-center items-center bg-gray-500 hover:bg-gray-700 text-xl'>
               See All Project
             </div>
